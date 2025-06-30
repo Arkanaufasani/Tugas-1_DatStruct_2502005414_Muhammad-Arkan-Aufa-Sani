@@ -1,4 +1,4 @@
-ude <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 // Struktur node untuk doubly linked list
